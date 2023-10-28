@@ -36,7 +36,7 @@ public class AppConfig {
 				cfg.setAllowedOrigins(Arrays.asList(
 						"http://localhost:3000",
 						"http://localhost:3001",
-						"https://shopluxe.vercel.app/"
+						"https://shopluxe.vercel.app"
 
 						));
 				cfg.setAllowedMethods(Collections.singletonList("*"));
